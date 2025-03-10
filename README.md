@@ -22,7 +22,6 @@ La base de datos contiene las siguientes colecciones:
 ## 🛠️ Tecnologías Utilizadas
 - **MongoDB** 🛢️ (Base de datos NoSQL)
 - **MongoDB Compass** 📊 (Interfaz gráfica para la gestión de datos)
-- **MongoDB Atlas** ☁️ (Base de datos en la nube, si aplica)
 - **Consultas en MongoDB** 📜 (Filtrado y análisis de datos)
 
 ## 🚀 Próximos Pasos
